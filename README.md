@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pethuraja.c</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://dribbble.com/shots/2859710-Yellow-desk">
+<img align="right" alt="coding" width="400" src="[https://dribbble.com/shots/2859710-Yellow-desk](https://dribbble.com/shots/2859710-Yellow-desk/attachments/9523333?mode=media)">
 
 - 🔭 I’m currently working on **Ecommerce Project**
 
